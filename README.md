@@ -49,10 +49,10 @@ The application operates on a **dual-thread system**:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/py-clock-pro.git](https://github.com/YOUR_USERNAME/py-clock-pro.git)
+git clone [https://github.com/YOUR_USERNAME/PY-Clock-PRO.git](https://github.com/YOUR_USERNAME/PY-Clock-Pro.git)
 
 # 2. Enter the project folder
-cd py-clock-pro
+cd PY-Clock-PRO
 
 # 3. Run the application
 python main.py
@@ -65,7 +65,7 @@ We ❤️ contributions! Whether you're fixing a bug or suggesting a new feature
 
 1. **Find an Issue:** Or open a new one to discuss your ideas.
 2. **Style Guide:** Please keep the code clean .
-3. **Be Kind:** We follow a basic code of conduct—be helpful and respectful!
+3. **Be Kind:** We follow a basic code of conduct - be helpful and respectful!
 
    
 <div align="center"> <sub>Built for productivity and precision.</sub> </div>
