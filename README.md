@@ -59,6 +59,13 @@ python main.py
 ```
 
 
-## MIT LICENSE
+## 🤝 Contributing
 
+We ❤️ contributions! Whether you're fixing a bug or suggesting a new feature, feel free to dive in.
+
+1. **Find an Issue:** Or open a new one to discuss your ideas.
+2. **Style Guide:** Please keep the code clean .
+3. **Be Kind:** We follow a basic code of conduct—be helpful and respectful!
+
+   
 <div align="center"> <sub>Built for productivity and precision.</sub> </div>
